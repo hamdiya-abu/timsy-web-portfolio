@@ -9,11 +9,7 @@ const router = createRouter({
       name: 'home',
       component: HomeView
     },
-    {
-      path: '/services',
-      name: 'service',
-      
-    }
+    
   ]
 })
 

@@ -5,7 +5,7 @@
     
                 <h1 class=" text-4xl font-bold flex-wrap flex">
         
-                    Hey<img src="images/hand.png" alt="hello" class="w-10"/>,I'm
+                    Hey<img src="/images/hand.png" alt="hello" class="w-10"/>,I'm
                      Hamdiya Abubakar
                 </h1>
                 <p class="text-lg mt-6 md:flex-wrap">I'm a Web Developer based in Accra, Ghana, and I'm deeply passionate and dedicated to my work. Say hello!</p>
@@ -18,7 +18,7 @@
      
                      <div class="border-dotted border-2 border-gray-500 p-5 h-auto justify-center flex flex-col w-full md:w-48 items-center rounded text-center space-y-3" @click="goToPortfolio">
                          <span class="text-center justify-center items-center text-lg font-semibold" >PROJECTS</span>
-                         <div class="justify-center   items-center text-center flex gap-2 py-3"><img src="images/laptop.png"/></div>
+                         <div class="justify-center   items-center text-center flex gap-2 py-3"><img src="/images/laptop.png"/></div>
                      </div>
                      <div class="border-dotted border-2 border-gray-500 p-5 h-auto flex flex-col justify-center w-full md:w-48 items-center rounded text-center space-y-3 " @click="goToAbout">
                          <span class="text-center justify-center items-center text-lg font-semibold" >ABOUT</span>
@@ -30,7 +30,7 @@
             <div class="w-full h-72 sm:h-72 mobile: mobile:h-72 mt-20 md:h-72 md:mt-16 border-x-4 border-x-[#09f5f5] lg:justify-center  rounded-lg bg-teal-700 p-6 relative container sm:mb-8 sm:mt-36 md: lg:w-[650px]  ">
    <!-- Image in between the slanted oval -->
    <div class="oval"></div>
-   <img src="images/aania.png" alt="Description" class="absolute bg-transparent -top-1/5 -bottom-1 z-10 h-[400px] w-[400px] sm:left-40 md:left-48 lg:left-40 ">
+   <img src="/images/aania.png" alt="Description" class="absolute bg-transparent -top-1/5 -bottom-1 z-10 h-[400px] w-[400px] sm:left-40 md:left-48 lg:left-40 ">
 
    
  </div>
@@ -49,7 +49,7 @@
     <h1 class="text-white  text-5xl font-extrabold container">My specializations</h1>
     
 <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mt-16 container">
-    <img src="images/web-design.png"/>
+    <img src="/images/web-design.png"/>
     <a href="#">
         <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Web Developer</h5>
     </a>

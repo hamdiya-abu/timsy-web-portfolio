@@ -83,7 +83,7 @@
 
   <div class="flex md:order-2 gap-2">
       <div class="flex gap-2">
-        <img src="images/chat.png" alt="chat" class="w-10 h-10"/>
+        <img src="/images/chat.png" alt="chat" class="w-10 h-10"/>
         <div class="flex flex-col text-slate-50 text-sm"> 
           <h1 class="text-white">Have any questions?</h1>
           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=timsyabubakr7@gmail.com&su=Inquiry%20from%20Your%20Portfolio&body=Hello%20[Your%20Name],%0D%0A%0D%0AI%20came%20across%20your%20portfolio%20and%20wanted%20to%20reach%20out.%0D%0A%0D%0ABest,%0D%0A[Your%20Contact's%20Name]" target="_blank" class="underline">Email </a>

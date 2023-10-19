@@ -87,7 +87,7 @@
         <div class="flex gap-3 mb-4">
             <!-- Label -->
             <div class="text-white p-4 rounded-md flex ">
-               <img src="images/vue.png" class="w-14 h-14"/>
+               <img src="/images/vue.png" class="w-14 h-14"/>
             </div>
             <!-- Value -->
             <div class="text-white p-4 rounded-md flex flex-col">
@@ -100,7 +100,7 @@
         <div class="flex gap-3 mb-4">
             <!-- Label -->
             <div class="text-white p-4 rounded-md flex ">
-               <img src="images/tailwind.png" class="w-14 h-14"/>
+               <img src="/images/tailwind.png" class="w-14 h-14"/>
             </div>
             <!-- Value -->
             <div class="text-white p-4 rounded-md flex flex-col">
@@ -113,7 +113,7 @@
         <div class="flex gap-3 mb-4">
             <!-- Label -->
             <div class="text-white p-4 rounded-md flex ">
-               <img src="images/html.png" class="w-14 h-14"/>
+               <img src="/images/html.png" class="w-14 h-14"/>
             </div>
             <!-- Value -->
             <div class="text-white p-4 rounded-md flex flex-col">
@@ -126,7 +126,7 @@
         <div class="flex gap-3 mb-4">
             <!-- Label -->
             <div class="text-white p-4 rounded-md flex ">
-               <img src="images/js.png" class="w-14 h-14"/>
+               <img src="/images/js.png" class="w-14 h-14"/>
             </div>
             <!-- Value -->
             <div class="text-white p-4 rounded-md flex flex-col">

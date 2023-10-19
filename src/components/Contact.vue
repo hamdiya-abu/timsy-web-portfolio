@@ -5,7 +5,7 @@
     Let's Talk</h2>
 
      <div class="flex gap-4 items-center mt-4"> 
-         <img src="images/call.png" alt="call" class="w-16 h-16"/>
+         <img src="/images/call.png" alt="call" class="w-16 h-16"/>
          <span class="text-white font-bold text-2xl "> </span>
      </div>
 
