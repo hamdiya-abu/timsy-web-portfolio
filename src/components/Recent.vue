@@ -19,7 +19,7 @@
         <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
         <div class="h-[64px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
         <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-white dark:bg-gray-800">
-            <img src="" class="dark:hidden h-[426px] md:h-[654px]" alt="">
+           
             <img src="/images/weather5.png" class="hidden dark:block h-[426px]  md:h-[654px] w-full" alt=""  />
         </div>
     </div>
@@ -31,7 +31,7 @@
         <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
         <div class="h-[64px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
         <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-white dark:bg-gray-800">
-            <img src="" class="dark:hidden h-[426px] md:h-[654px]" alt="">
+           
             <img src="/images/weather4.png" class="hidden dark:block h-[406px] md:h-[654px] w-full rounded-xl" alt=""  />
         </div>
     </div>
@@ -53,7 +53,7 @@
        <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
        <div class="h-[64px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-white dark:bg-gray-800">
-           <img src="" class="dark:hidden h-[426px] md:h-[654px]" alt="">
+          
            <img src="/images/lab.png" class="hidden dark:block h-[426px] md:h-[624px] w-full rounded-b-lg" alt=""  />
        </div>
    </div>
@@ -83,7 +83,7 @@
     <div class="h-[46px] w-[3px] bg-gray-800 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
     <div class="h-[64px] w-[3px] bg-gray-800 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
     <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-white dark:bg-gray-800">
-        <img src=".png" class="dark:hidden w-[272px] h-[572px]" alt="">
+        
         <img src="/images/whatsap3.png" class="hidden dark:block w-[292px] h-[572px]" alt="">
     </div>
 </div>
@@ -95,7 +95,7 @@
     <div class="h-[46px] w-[3px] bg-gray-800 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
     <div class="h-[64px] w-[3px] bg-gray-800 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
     <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-white dark:bg-gray-800">
-        <img src=".png" class="dark:hidden w-[272px] h-[572px]" alt="">
+        
         <img src="/images/whatsap4.png" class="hidden dark:block w-[292px] h-[572px]" alt="">
     </div>
 </div>
