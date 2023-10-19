@@ -23,7 +23,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Installation
 ### clone the repository
 ```sh
- git clone https://github.com/hamdiya-abu/my-web-portfolio
+ git clone https://github.com/hamdiya-abu/timsy-web-portfolio
 ```
 
 ## Navigate to the directory 
