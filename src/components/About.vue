@@ -54,7 +54,7 @@
             <!-- Label -->
             <div class="text-white p-4 rounded-md flex flex-col">
                 <h1 class="font-bold">Email</h1> 
-                timsyabubakr7@gmail.com
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=timsyabubakr7@gmail.com&su=Inquiry%20from%20Your%20Portfolio&body=Hello%20[Your%20Name],%0D%0A%0D%0AI%20came%20across%20your%20portfolio%20and%20wanted%20to%20reach%20out.%0D%0A%0D%0ABest,%0D%0A[Your%20Contact's%20Name]" target="_blank" class=" cursor-pointer">timsyabubakr7@gmail.com </a>
             </div>
             <!-- Value -->
             <div class="text-white p-4 rounded-md  flex flex-col">
